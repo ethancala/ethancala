@@ -14,8 +14,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Syallabye
+- https://gentle-moss-0fd314310.4.azurestaticapps.net/
 
 ### 🌱 I’m learning
 
@@ -25,9 +25,6 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
 
 ### 📫 How to reach me
 
