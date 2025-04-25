@@ -1,40 +1,30 @@
-## Hi there 👋
+# Hi, I'm [Your Name] — Aspiring Software Engineer
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+Welcome to my GitHub profile! I'm a Computer Science student with hands-on experience in software development, cloud services, and IT support. I enjoy solving problems with clean, scalable code and building tools that make an impact.
 
-**I love working with**
+## 🔧 Tech Stack
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</div>
+**Languages:** Python, Java, SQL  
+**Frameworks/Libraries:** Flask, React, Next.js  
+**Cloud & Tools:** Azure, Firebase, Git, VS Code
 
-### 🔭 I’m working on
+## 🛠️ Projects
 
-- <a href= "https://gentle-moss-0fd314310.4.azurestaticapps.net/" > Syllabye </a>
-- <a href= "https://www.ethancala.dev/" > Personal Website </a>
-- <a href= "https://www.ethancala.dev/" > Command Line Portfolio </a>
+- **[Project Name 1](https://github.com/yourusername/project1)**  
+  Short 1-2 sentence description of what this project does, what tech you used, and why it's interesting.
 
-### 🌱 I’m learning
+- **[Project Name 2](https://github.com/yourusername/project2)**  
+  Short description of the project and its purpose or problem it solves.
 
-<div display="flex">
+- **[Project Name 3](https://github.com/yourusername/project3)**  
+  Optional third project with a concise explanation.
 
-</div>
+## 📊 GitHub Stats
 
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=default)
 
-### 📫 How to reach me
+## 🌐 Connect with Me
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/ethan-cala-6401642aa/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/EthanCala%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yourlinkedin)  
+[![Portfolio](https://img.shields.io/badge/Website-ethancala.dev-informational?style=for-the-badge)](https://ethancala.dev)
