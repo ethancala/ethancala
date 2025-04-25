@@ -23,10 +23,10 @@ I'm a Computer Scientist with hands-on experience in software development, cloud
 
 ## 📊 GitHub Stats
 
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=default)
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethancala&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancala&layout=compact&hide_border=true&theme=default)
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yourlinkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ethan-cala-6401642aa/)  
 [![Portfolio](https://img.shields.io/badge/Website-ethancala.dev-informational?style=for-the-badge)](https://ethancala.dev)
