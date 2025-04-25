@@ -34,7 +34,7 @@ I'm a Computer Scientist with hands-on experience in software development, cloud
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" height="28" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel"/>
 </p>
-## 🛠️ Projects
+##🛠️ Projects
 
 - **[Mode Score](https://mode-score-app.vercel.app/)**  
   Mode Score is a dApp that evaluates and optimizes your digital assets across multiple ecosystems with a capital efficiency score, and a user-friendly interface. It integrates wallets, recommends opportunities, and is especially helpful for newcomers to DeFi.
