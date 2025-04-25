@@ -27,7 +27,7 @@ I'm a Computer Scientist with hands-on experience in software development, cloud
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethancala&show_icons=true&locale=en" alt="ethancala" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancala&layout=compact&hide_border=true&theme=default)
+
 
 ## 🌐 Connect with Me
 
