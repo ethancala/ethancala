@@ -1,23 +1,25 @@
-# Hi, I'm [Your Name] — Aspiring Software Engineer
+# Hi, I'm Ethan — IT and Software Engineer
 
-Welcome to my GitHub profile! I'm a Computer Science student with hands-on experience in software development, cloud services, and IT support. I enjoy solving problems with clean, scalable code and building tools that make an impact.
+I'm a Computer Scientist with hands-on experience in software development, cloud services, and IT engineering. I enjoy solving problems with clean, scalable code and building tools that make an impact.
 
 ## 🔧 Tech Stack
 
-**Languages:** Python, Java, SQL  
-**Frameworks/Libraries:** Flask, React, Next.js  
-**Cloud & Tools:** Azure, Firebase, Git, VS Code
+**Languages:** Python, Java, SQL, NodeJS, JS, C#, Solidity 
+**Frameworks/Libraries:** Flask, React, Next.js, Selenium, FasAPI, DotNet, Tailwind
+**Cloud & Tools:** Azure, Firebase, Git, VS Code, Azure DevOps, Vercel
 
 ## 🛠️ Projects
 
-- **[Project Name 1](https://github.com/yourusername/project1)**  
-  Short 1-2 sentence description of what this project does, what tech you used, and why it's interesting.
+- **[Mode Score](https://mode-score-app.vercel.app/)**  
+  Mode Score is a dApp that evaluates and optimizes your digital assets across multiple ecosystems with a capital efficiency score, and a user-friendly interface. It integrates wallets, recommends opportunities, and is especially helpful for newcomers to DeFi.
 
-- **[Project Name 2](https://github.com/yourusername/project2)**  
-  Short description of the project and its purpose or problem it solves.
+- **[Portfolio](https://www.ethancala.dev/)**  
+  A collection of my professional work, including projects, work experience, and skills.
 
-- **[Project Name 3](https://github.com/yourusername/project3)**  
-  Optional third project with a concise explanation.
+- **[Syallbye](https://gentle-moss-0fd314310.4.azurestaticapps.net/)**  
+  Syllabye is a web-based platform designed to simplify syllabus creation and access for professors and students. Developed by Computer Science students at Lewis   University, this project demonstrates best practices in modern web development, multi-language support, and sustainable code handoff for future developers.
+
+
 
 ## 📊 GitHub Stats
 
