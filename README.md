@@ -14,8 +14,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 ### 🔭 I’m working on
 
-- Syallabye
-- https://gentle-moss-0fd314310.4.azurestaticapps.net/
+- <a href= "https://gentle-moss-0fd314310.4.azurestaticapps.net/" >Syallabye </a>
 
 ### 🌱 I’m learning
 
