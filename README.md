@@ -23,7 +23,7 @@ I'm a Computer Scientist with hands-on experience in software development, cloud
 
 ## 📊 GitHub Stats
 
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ethancala&show_icons=true&locale=en&layout=compact" alt="ethancala)
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ethancala&show_icons=true&locale=en&layout=compact")
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancala&layout=compact&hide_border=true&theme=default)
 
 ## 🌐 Connect with Me
