@@ -1,6 +1,4 @@
-# Hi, I'm Ethan — IT and Software Engineer
-
-I'm a Computer Scientist with hands-on experience in software development, cloud services, and IT engineering. I enjoy solving problems with clean, scalable code and building tools that make an impact.
+#Engineer
 
 ## 🔧 Tech Stack
 
