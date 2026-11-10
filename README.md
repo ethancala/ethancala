@@ -1,8 +1,6 @@
 ## Systems Engineer II in Automation & Robotics Software for Logistics @KNAPP
 <p><img src="https://www.knapp.com/favicon.ico" width="40" height="40" alt="KNAPP"/> </p>
 
-### Tech Stack
-
 ### Languages & Scripting
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
