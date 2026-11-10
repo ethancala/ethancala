@@ -46,8 +46,6 @@
 
 
 ##  GitHub Stats
-<img src="https://streak-stats.demolab.com?user=ethancala&theme=tokyonight" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ethancala&theme=tokyo-night" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethancala&theme=tokyonight" />
 
 
