@@ -1,6 +1,6 @@
-## Systems Engineer in Automation & Robotics Software for Logistics
+## Systems Engineer in Automation & Robotics Software for Logistics @
 <p><img src="https://www.knapp.com/favicon.ico" width="40" height="40" alt="KNAPP"/> </p>
-## 🔧 Tech Stack
+## Tech Stack
 
 ### Languages & Scripting
 <p>
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
 
-## 🛠️ Projects
+##  Projects
 
 - **[Mode Score](https://mode-score-app.vercel.app/)**  
   Mode Score is a dApp that evaluates and optimizes your digital assets across multiple ecosystems with a capital efficiency score, and a user-friendly interface. It integrates wallets, recommends opportunities, and is especially helpful for newcomers to DeFi.
