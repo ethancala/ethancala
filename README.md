@@ -51,5 +51,19 @@
 
 ##  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ethan-cala-6401642aa/)  
-[![Portfolio](https://img.shields.io/badge/Website-ethancala.dev-informational?style=for-the-badge)](https://ethancala.dev)
+<p align="center">
+  <a href="https://github.com/ethancala" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="40" height="40" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ethan-cala-6401642aa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40" height="40" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://ethancala.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+         width="40" height="40" alt="Website"/>
+  </a>
+</p>
