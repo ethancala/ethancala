@@ -45,15 +45,23 @@
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethancala&show_icons=true&locale=en&layout=compact" alt="ethancala" /></p>
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=ethancala&show_icons=true&locale=en&layout=compact"
+       alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethancala&show_icons=true&locale=en" alt="ethancala" /></p>
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=ethancala&show_icons=true&locale=en"
+       alt="GitHub Stats" />
+</p>
 
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ethan-cala-6401642aa/)  
 [![Portfolio](https://img.shields.io/badge/Website-ethancala.dev-informational?style=for-the-badge)](https://ethancala.dev)
