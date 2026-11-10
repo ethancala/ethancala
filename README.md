@@ -46,19 +46,9 @@
 
 
 ##  GitHub Stats
-
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=ethancala&show_icons=true&locale=en&layout=compact"
-       alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=ethancala&show_icons=true&locale=en"
-       alt="GitHub Stats" />
-</p>
-
+<img src="https://streak-stats.demolab.com?user=ethancala&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ethancala&theme=tokyo-night" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethancala&theme=tokyonight" />
 
 
 ##  Connect with Me
