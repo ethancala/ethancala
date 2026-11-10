@@ -1,6 +1,7 @@
-## Systems Engineer in Automation & Robotics Software for Logistics @KNAPP
+## Systems Engineer II in Automation & Robotics Software for Logistics @KNAPP
 <p><img src="https://www.knapp.com/favicon.ico" width="40" height="40" alt="KNAPP"/> </p>
-## Tech Stack
+
+### Tech Stack
 
 ### Languages & Scripting
 <p>
